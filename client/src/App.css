@@ -1,0 +1,14 @@
+.card {
+  width: 280px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin: 40px 20px;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.card img {
+  height: 200px;
+  width: 250px;
+}
+.card .button {
+  margin-top: -10px;
+}
